@@ -25,7 +25,7 @@
             "name": "Supa",
 			"imageUrl": ".\\assets\\image\\sestrjevitovschii-ina-7zfQ6sbWVyE-unsplash",
 			"postTime": "7 Hours",
-			"uploader": "Ali",
+			"uploader": "Aliandro",
 			"liked": 288,
 			"comments": [
 				{
@@ -77,6 +77,106 @@
 			"postTime": "2 Hours",
 			"uploader": "tosho",
 			"liked": 8222,
+			"comments": [
+				{
+                    "id": 9,
+					"name": "ivan",
+					"comment": "w2ow"
+				},
+				{
+                    "id": 10,
+					"name": "sali99",
+					"comment": "wunderbar"
+				},
+				{
+                    "id": 11,
+					"name": "salam90",
+					"comment": "Fkusnu"
+				}
+			]
+        },
+		        {
+            "id": "5",
+            "name": "Keks",
+			"imageUrl": "..\\assets\\image\\nordwood-themes-pYWrdKO5ksI-unsplash.jpg",
+			"postTime": "5 Hours",
+			"uploader": "Sasho",
+			"liked": 1,
+			"comments": [
+				{
+                    "id": 1,
+					"name": "pesho",
+					"comment": "wow"
+				},
+				{
+                    "id": 2,
+					"name": "sexy99",
+					"comment": "wunderbar"
+				},
+				{
+                    "id":1,
+					"name": "user",
+					"comment": "mmmmm"
+				}
+			]
+        },
+        {
+            "id": "6",
+            "name": "Supa",
+			"imageUrl": ".\\assets\\image\\sestrjevitovschii-ina-7zfQ6sbWVyE-unsplash",
+			"postTime": "7 Hours",
+			"uploader": "alex",
+			"liked": 28,
+			"comments": [
+				{
+                    "id": 3,
+					"name": "ivan",
+					"comment": "w2ow"
+				},
+				{
+                    "id": 4,
+					"name": "sali99",
+					"comment": "wunderbar"
+				},
+				{
+                    "id": 5,
+					"name": "salam90",
+					"comment": "super"
+				}
+			]
+        },
+        {
+            "id": "7",
+            "name": "Kartofi",
+			"image": "/resources/sestrjevitovschii-ina-7zfQ6sbWVyE-unsplash.jpg",
+			"postTime": "2 Hours",
+			"uploader": "gesho",
+			"liked": 2,
+			"comments": [
+				{
+                    "id": 6,
+					"name": "ivan",
+					"comment": "w2ow"
+				},
+				{
+                    "id": 7,
+					"name": "sali99",
+					"comment": "wunderbar"
+				},
+				{
+                    "id": 8,
+					"name": "salam90",
+					"comment": "qko"
+				}
+			]
+        },
+        {
+            "id": "8",
+            "name": "Musaka s patladjan",
+			"imageUrl": ".\\assets\\image\\sestrjevitovschii-ina-7zfQ6sbWVyE-unsplash",
+			"postTime": "2 Hours",
+			"uploader": "tosho",
+			"liked": 822,
 			"comments": [
 				{
                     "id": 9,
